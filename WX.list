@@ -1,0 +1,6 @@
+# Weixin fcm
+DOMAIN-SUFFIX,weixin.qq.com
+IP-CIDR,58.144.0.0/16,no-resolve
+IP-CIDR,116.128.0.0/10,no-resolve
+IP-CIDR,203.205.64.0/19,no-resolve
+IP-CIDR,223.166.0.0/15,no-resolve
