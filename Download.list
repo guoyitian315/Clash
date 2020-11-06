@@ -21,6 +21,5 @@ URL-REGEX,(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
 # 360
 URL-REGEX,(.+\.|^)(360|so)\.(cn|com)
 # Tencent Weiyun
-PROCESS-NAME,Weiyun
+
 #Baidu disk
-PROCESS-NAME,baidunetdisk
