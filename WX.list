@@ -8,8 +8,8 @@ IP-CIDR,116.128.171.0/24,no-resolve
 IP-CIDR,119.167.204.0/24,no-resolve
 IP-CIDR,120.233.155.0/24,no-resolve
 IP-CIDR,120.241.189.0/24,no-resolve
-IP-CIDR,123.6.33.0/24/24,no-resolve
-IP-CIDR,157.255.132.0,no-resolve
+IP-CIDR,123.6.33.0/24,no-resolve
+IP-CIDR,157.255.132.0/24,no-resolve
 IP-CIDR,163.177.59.0/24,no-resolve
 IP-CIDR,203.205.64.0/24,no-resolve
 IP-CIDR,220.194.107.0/24,no-resolve
