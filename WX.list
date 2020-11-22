@@ -12,3 +12,14 @@ IP-CIDR,116.128.163.0/24,no-resolve
 IP-CIDR,183.194.234.0/24,no-resolve
 IP-CIDR,183.195.236.0/24,no-resolve
 IP-CIDR,203.205.235.0/24,no-resolve
+IP-CIDR,220.194.93.0/24,no-resolve
+IP-CIDR,111.30.164.0/24,no-resolve
+IP-CIDR,109.244.169.0/24,no-resolve
+IP-CIDR,111.30.164.0/24,no-resolve
+IP-CIDR,109.244.169.0/24,no-resolve
+IP-CIDR,123.151.190.0/24,no-resolve
+IP-CIDR,220.194.91.0/24,no-resolve
+IP-CIDR,49.51.89.0/24,no-resolve
+IP-CIDR,109.244.169.0/24,no-resolve
+IP-CIDR,49.51.20.0/24,no-resolve
+IP-CIDR,123.150.208.0/24,no-resolve
