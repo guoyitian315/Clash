@@ -8,3 +8,4 @@ IP-CIDR,203.205.253.0/24,no-resolve
 IP-CIDR,203.205.254.0/24,no-resolve
 
 IP-CIDR,223.166.152.0/24,no-resolve
+DOMAIN-SUFFIX,googleapis.cn
