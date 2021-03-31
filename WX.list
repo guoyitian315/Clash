@@ -3,7 +3,10 @@ DOMAIN-SUFFIX,weixin.qq.com
 IP-CIDR,36.152.4.32/24,no-resolve
 IP-CIDR,61.151.183.16/24,no-resolve
 IP-CIDR,101.89.38.155/24,no-resolve
+IP-CIDR,101.226.129.145/24,no-resolve
 IP-CIDR,116.128.163.37/24,no-resolve
 IP-CIDR,116.128.163.191/24,no-resolve
 IP-CIDR,183.194.234.225/24,no-resolve
+IP-CIDR,183.195.236.145/24,no-resolve
 IP-CIDR,183.195.236.151/24,no-resolve
+IP-CIDR,220.196.144.161/24,no-resolve
