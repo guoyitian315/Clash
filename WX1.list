@@ -1,16 +1,18 @@
 # Weixin fcm
-IP-CIDR,36.152.4.0/24,no-resolve
-IP-CIDR,49.51.89.0/24,no-resolve
 IP-CIDR,61.151.183.0/24,no-resolve
 IP-CIDR,101.89.38.0/24,no-resolve
 IP-CIDR,101.226.129.0/24,no-resolve
-IP-CIDR,116.128.133.0/24,no-resolve
 IP-CIDR,116.128.163.0/24,no-resolve
-IP-CIDR,116.128.171.0/24,no-resolve
 IP-CIDR,183.194.234.0/24,no-resolve
 IP-CIDR,183.195.236.0/24,no-resolve
+IP-CIDR,220.196.144.0/24,no-resolve
+
+
+IP-CIDR,36.152.4.0/24,no-resolve
+IP-CIDR,49.51.89.0/24,no-resolve
+IP-CIDR,116.128.133.0/24,no-resolve
+IP-CIDR,116.128.171.0/24,no-resolve
 IP-CIDR,203.205.235.0/24,no-resolve
 IP-CIDR,203.205.253.0/24,no-resolve
 IP-CIDR,203.205.254.0/24,no-resolve
-IP-CIDR,220.196.144.0/24,no-resolve
 IP-CIDR,223.166.152.0/24,no-resolve
