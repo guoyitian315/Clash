@@ -1,2 +1,4 @@
 # Meizu flyme Aicy总览允许日历白名单
 DOMAIN-SUFFIX,cal.meizu.com
+# 手机连接 识别为漫游区域
+DOMAIN-SUFFIX,dcg.microsoft.com
